@@ -1,4 +1,4 @@
-**
+
 # Contador de Números com Validação de Parâmetros
 
 Este projeto foi realizado para finalização do desafio proposto pela DIO durante o curso de Java básico.
@@ -20,4 +20,4 @@ Este projeto é uma aplicação Java simples que realiza a contagem de números 
 - Controle de Fluxo: Uso de estruturas de controle como loops e condicionais para manipular o fluxo do programa.
 - Entrada/Saída (I/O): Leitura de dados do terminal usando a classe Scanner.
 
-**
+
